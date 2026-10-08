@@ -1,0 +1,1 @@
+Set-Content -Path .gitignore -Value "database.sqlite" -Encoding utf8git rm init_dp.php
