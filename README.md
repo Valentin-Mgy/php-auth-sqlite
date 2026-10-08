@@ -1,4 +1,3 @@
-@'
 # Système d'authentification PHP & SQLite
 
 Projet d'authentification from scratch en PHP natif sans framework.
